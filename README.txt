@@ -10,7 +10,7 @@
 
 	This project will allow stated entities to expand a phrase into many possibilities.
 	If one knew a phrase was "password", or "melon", but didn't know the exact variations a user may have employed,
-	this project will expand those simple phrases into many of their possibile derivatives.  It will still work
+	this project will expand those simple phrases into many of their possible derivatives.  It will still work
 	on longer phrases, but they will certainly require more time to spin up for, and obviously harder to crack.
 
 	This project does not intend to be a catch-all to simple phrases, as it is currently* easily defeated by
