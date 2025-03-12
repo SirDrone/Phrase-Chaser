@@ -24,7 +24,7 @@
 
 +phrase_breaker.zip
 |
-|+++README.txt (or README.pdf if you prefer bolding!)
+|+++README.txt 
 |
 |+++LICENSE.txt
 |	So no one gets in trouble for using this software :thumbs:
